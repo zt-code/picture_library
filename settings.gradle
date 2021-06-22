@@ -1,2 +1,2 @@
-rootProject.name = "picture_library"
+//rootProject.name = "picture_library"
 include ':app'
